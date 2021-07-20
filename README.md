@@ -1,7 +1,7 @@
 ## Cosmos PWNED
 ### No I won't say who leaked the loader to me, cracked and leaked for fun
 
-### [Click here to download the jar (Has been checked, and is safe.)](https://github.com/Hqrion-Clientz/Cosmos-PWNED/releases/download/1.0/Cosmos-PWNED.jar)
+### [Click here to download the jar (Has been checked, and is safe.)](https://github.com/Hqrion/Cosmos-PWNED/releases/download/1.0/Cosmos-PWNED.jar)
 
 COSMOS PUT IN THA FUCKING PACK, also please fucking learn how to make a proper anti-dump thanks 🙏🙏🙏
 
